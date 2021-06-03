@@ -1,0 +1,4 @@
+rootProject.name = "HPJavaPoet"
+include ':app'
+include ':prouter-annotations'
+include ':prouter-compiler'
